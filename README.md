@@ -1,2 +1,2 @@
-# StoreFront-for-Arena-Fitghting-game
+# StoreFront-for-Arena-Fighting-game
 An Areana fighting game storefront 
