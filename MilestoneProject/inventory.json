@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Health",
+    "name": "Health Potion",
+    "description": "This potion will grant you 50 hp instantly",
+    "price": 2.50,
+    "quantity": 100,
+    "healthPoints": 50
+  },
+  {
+    "type": "Weapon",
+    "name": "Nunchucks",
+    "description": "A pair of nunchucks, used for defense techniques and faster movements",
+    "price": 9.99,
+    "quantity": 100,
+    "damage": 15
+  },
+  {
+    "type": "Weapon",
+    "name": "Sai",
+    "description": "A pair of sai, used for striking and disarming opponents",
+    "price": 19.99,
+    "quantity": 100,
+    "damage": 20
+  },
+  {
+    "type": "Armor",
+    "name": "Samurai Helmet",
+    "description": "A samurai helmet, used as protection and receives less damage to the head",
+    "price": 4.99,
+    "quantity": 100,
+    "defense": 10
+  },
+  {
+    "type": "Armor",
+    "name": "Samurai Body Armor",
+    "description": "A samurai body armor, used as protection and receives less damage to the body",
+    "price": 7.99,
+    "quantity": 100,
+    "defense": 20
+  }
+]
